@@ -1,1 +1,1 @@
-# wbs-recipe-blog
+# recipes-blog-frontend
